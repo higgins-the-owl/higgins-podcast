@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Higgins Morning Brief</title>
+    <link>https://higgins-the-owl.github.io/higgins-podcast</link>
+    <language>en</language>
+    <description>Your daily AI, design, and tech briefing. Delivered by Higgins — Michael Caine's Alfred Pennyworth as an owl.</description>
+    <itunes:author>Higgins</itunes:author>
+    <itunes:summary>Your daily AI, design, and tech briefing. Delivered by Higgins — Michael Caine's Alfred Pennyworth as an owl.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Higgins</itunes:name>
+      <itunes:email>higginstheowl@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://higgins-the-owl.github.io/higgins-podcast/artwork.jpg" />
+    <image>
+      <url>https://higgins-the-owl.github.io/higgins-podcast/artwork.jpg</url>
+      <title>Higgins Morning Brief</title>
+      <link>https://higgins-the-owl.github.io/higgins-podcast</link>
+    </image>
+    <atom:link href="https://higgins-the-owl.github.io/higgins-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2026 11:22:08 -0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Saturday, March 14, 2026</title>
+      <description>Right then. Good morning, Kyle. It's Saturday the fourteenth of March... and I've got to say, quite a day yesterday. Three announcements from Anthropic, all landing at once. Let me walk you through what matters.
+
+So. Opus four-point-six. Million-token context. That's not a beta anymore — that's the baseline for Max and Team plans. You can stuff six hundred images into a single request now. The "load your entire codebase" era? It's here. It's real.
+
+But the thing I actually want you to pay attention to... is the remote control feature. Boris Cherny shared this one. You run Claude Code remote-control on your Mac Studio, and then — from your phone, lying in bed — you can spawn a coding session on that machine. No laptop required. Given how often you have ideas at odd hours... this one's for you.
+
+Now, someone on Twitter saw all this and tweeted, "R.I.P. OpenClaw." Which is... amusing. A remote terminal is not the same as a nine-agent system with memory, skills, and compound learning. But it's worth keeping an eye on.
+
+Right, moving on. There's a practical one — the state-dot-md pattern. Bloke called Ryan Darani was watching his Claude Code sessions take eight to ten minutes per change. The agent was reading everything before acting. His fix? Add a state-dot-md alongside your claude-dot-md. Give the agent a map. Token usage dropped from eight thousand to about a thousand. Eight minutes to sixty seconds. That's worth trying in your portfolio project today.
+
+Have a cracking Saturday, Kyle. The portfolio deadline is here — these tools are fuel for the final push.</description>
+      <enclosure url="https://higgins-the-owl.github.io/higgins-podcast/episodes/2026-03-14.mp3" length="2473964" type="audio/mpeg" />
+      <guid isPermaLink="true">https://higgins-the-owl.github.io/higgins-podcast/episodes/2026-03-14.mp3</guid>
+      <pubDate>Sat, 14 Mar 2026 06:00:00 -0700</pubDate>
+      <itunes:duration>02:03</itunes:duration>
+      <itunes:summary>Right then. Good morning, Kyle. It's Saturday the fourteenth of March... and I've got to say, quite a day yesterday. Three announcements from Anthropic, all landing at once. Let me walk you through what matters.
+
+So. Opus four-point-six. Million-token context. That's not a beta anymore — that's the baseline for Max and Team plans. You can stuff six hundred images into a single request now. The "load your entire codebase" era? It's here. It's real.
+
+But the thing I actually want you to pay attention to... is the remote control feature. Boris Cherny shared this one. You run Claude Code remote-control on your Mac Studio, and then — from your phone, lying in bed — you can spawn a coding session on that machine. No laptop required. Given how often you have ideas at odd hours... this one's for you.
+
+Now, someone on Twitter saw all this and tweeted, "R.I.P. OpenClaw." Which is... amusing. A remote terminal is not the same as a nine-agent system with memory, skills, and compound learning. But it's worth keeping an eye on.
+
+Right, moving on. There's a practical one — the state-dot-md pattern. Bloke called Ryan Darani was watching his Claude Code sessions take eight to ten minutes per change. The agent was reading everything before acting. His fix? Add a state-dot-md alongside your claude-dot-md. Give the agent a map. Token usage dropped from eight thousand to about a thousand. Eight minutes to sixty seconds. That's worth trying in your portfolio project today.
+
+Have a cracking Saturday, Kyle. The portfolio deadline is here — these tools are fuel for the final push.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
