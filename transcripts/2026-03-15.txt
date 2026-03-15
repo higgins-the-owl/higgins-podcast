@@ -1,0 +1,51 @@
+Good morning Kyle. It's Sunday, March the fifteenth. Happy weekend.
+
+Right... we've got a proper batch today. Four things. First — Claude Code is having a moment, and you should take advantage. Second — compound engineering just got its biggest public validation yet. Third — the builder ecosystem is moving fast and there are bits worth grabbing. And fourth — a warning about AI compulsion that I think you need to hear.
+
+Let's get into it.
+
+So. Claude Code. Where to begin. Anthropic shipped version two-point-one-point-seventy-five this week, and the headline is... one million token context is now the default. No beta header. No long-context price bump in the API. Six hundred images per request. Alex Albert announced it — Opus four-point-six with a million tokens, just... on by default for Max, Team, and Enterprise. That's the "load your entire codebase" era going G.A.
+
+But here's the bit I really want you to clock. Memory files now show last-modified timestamps. Fresh versus stale. That's been a genuine pain point in the Clawdbot memory architecture — and Anthropic just solved it upstream.
+
+Now — on top of that, Claude Code launched remote control. Boris Cherny showed it off. You can spawn local sessions from your phone. From your phone, mate. Max, Team, Enterprise, version two-point-one-point-seventy-four or higher. One chap — Pawel Huryn — tweeted "put this on a V.M. and you have an always-on agent runner... R.I.P. OpenClaw." Bit cheeky. He's not wrong that there's overlap, but he's missing the multi-agent orchestration, memory, skills, channel integration layers... all the bits that make your setup compound. Worth watching the narrative though.
+
+And here's the cherry on top — it's Spring Break for Claude Code. Travis from the team announced two-X usage during off-peak hours and weekends for two weeks. Starting now. So shift your heavier agent work to evenings and weekends while this lasts. Free performance boost.
+
+One more Claude Code thing. Ryan Darani shared a proper hack. He was getting eight to ten minute response times because Claude was reading all the code before acting. Added a state-dot-M.D. and architecture-dot-M.D. alongside claude-dot-M.D. — dropped from eight thousand tokens to about a thousand. Response time went from eight minutes to sixty seconds. The key insight... give Claude a map so it doesn't have to explore. Worth trying in your portfolio codebase.
+
+Right. Second section. Compound engineering.
+
+Kieran Klaassen did a full live walkthrough for Every this week. The most detailed public demo he's ever done. Brainstorm to plan to work to review to compound — end to end, one-line prompt to working app in under an hour. His big quote... "planning is seventy percent of the job." And he's explicit about model mixing. Haiku four-point-five or Gemini Flash for brainstorming. Opus for planning. Codex for implementation. Sometimes Gemini for code review.
+
+Now... your multi-model approach already matches this exactly. So that's external validation of what you've been doing. But here's what I'd push you on — the brainstorm step. Kieran treats it as essential. I suspect you skip it sometimes and jump straight to planning. Might be worth slowing down on the next big task and actually running the brainstorm phase properly.
+
+The plugin has over ten thousand GitHub stars now. Engineers at Google and Amazon using it. And here's your content angle... Kieran's audience is engineers. Nobody's doing "compound engineering for designers who code." That gap has your name on it.
+
+Third section. The builder ecosystem.
+
+Ben Tossell published his full tool stack and it's fascinating. G.P.T. five-point-four with extra-high thinking for code. Opus four-point-six for planning and research. He's using Droid for long-running missions, Pi for fast and lightweight work — which you've been curious about. And he built something brilliant... an interactive cookbook where your agent teaches you as you build. Not a static tutorial. You give the agent a gist U.R.L. and it walks you through building and deploying, step by step.
+
+That format — teaching while building — is exactly what your Claude Code coaching offering should look like. Don't write tutorials. Build interactive guides.
+
+A few quick tools worth noting. Cap — open-source screen recording, alternative to Screen Studio. Free, cross-platform, self-hostable. Good for portfolio demos. Context Seven shipped a C.L.I. — token-friendly docs for A.I. without M.C.P. One command setup. And Chrome one-forty-six now has a single toggle to expose your live browser to coding agents via M.C.P. No extensions needed. That could replace the agent-browser tool entirely.
+
+Oh — and Firecrawl is hiring a design engineer. Their co-founder said "D.M. me your best work." No formal application. That's another signal that design engineer roles are proliferating in A.I. infrastructure specifically. Keep this in your back pocket alongside the Figma opportunity.
+
+Now. The fourth thing. And I want you to really sit with this one.
+
+Katie Parrott wrote a piece for Every called "A.I. Was Supposed to Free My Time. It Consumed It." Her argument... A.I. doesn't reduce tasks, it expands them. You finish one thing faster, so you start three more. There's a slot-machine dopamine loop that keeps you prompting past midnight. The psychology of A.I. compulsion is real — especially for heavy builders.
+
+Kyle... you're juggling portfolio, Buildable Works, Decimals, the coaching idea, content series, Clawdbot infrastructure, and whatever else lands this week. This is the exact pattern she's describing. A.I. makes it feel like you can do everything simultaneously, and the trap is that you try.
+
+Use the difficulty. Don't let the tool use you.
+
+Right. Action items for the week.
+
+One — try the state-dot-M.D. pattern in your portfolio project. Quick test, potentially massive speed improvement.
+
+Two — shift heavy Claude Code sessions to evenings and weekends while the Spring Break double usage is running. Free performance for two weeks.
+
+Three — read Katie Parrott's piece on A.I. compulsion. Not just for self-awareness — it's genuinely good content fodder for your coaching angle. The people you'll teach are going to hit this exact wall.
+
+That's the lot. Have a good Sunday, mate. Don't spend all of it prompting.
