@@ -1,0 +1,61 @@
+Good morning Kyle. It's Tuesday, March the seventeenth. Big week ahead.
+
+Right... we've got three things today. First — design knowledge is becoming agent-native, and you need to pay attention to this pattern. Second — R.A.M.P. just validated your dream role. And third — a practical Claude Code trick that'll change how you run coding sessions.
+
+Let's get into it.
+
+So. Here's the headline. The best design engineers in the game are packaging their knowledge as agent skills. And I mean literally... installable skills.
+
+Emil Kowalski — you know his work, Sonner, all those beautiful open-source components — he took his entire blog, his design engineering principles, his animation patterns... and turned it into a single skill for Claude Code and Codex. One install. Now any coding agent can apply his taste.
+
+That's not a tweet. That's a signal.
+
+And he's not alone. Jakub Krehel — we talked about his interface details article yesterday — well, he's gone and done the same thing. Packaged it as a coding agent skill. You can install it with one command. Run slash make-interfaces-feel-better... and your agent applies those nine techniques we discussed.
+
+Now. Matt Pocock takes this even further. He published his five daily skills. Slash grill-me — challenges your assumptions before you build. Slash write-a-P.R.D. Slash P.R.D.-to-issues. Slash T.D.D. Slash improve-my-codebase. Five processes. Five skills. His line is brilliant... "Process has never been more important. Skills are the best way to bundle up processes for agents."
+
+Here's what I want you to see, Kyle. The basic unit of work is shifting. It's not a task anymore. It's a process. And the people who package their processes as skills... they're building compound advantages. Every time an agent runs that skill, it applies their accumulated knowledge.
+
+This is exactly what you've been doing with this setup. S.O.U.L. dot M.D., A.G.E.N.T.S. dot M.D., the compound engineering methodology... you've been packaging process before it was cool. The difference is — these folks are making theirs public and installable.
+
+Action item here... install Emil's skill and Jakub's skill this week. Test them alongside your existing design skills. And start thinking about which of your own processes could become a public skill. Your A.I. enablement workflow? Your design review process? That's the kind of thing that builds reputation in this space.
+
+Right. Second thing. And this one... this one's important.
+
+R.A.M.P. just hired Elizabeth Lin as their first Design Program Manager. Diego Zaks — he's at R.A.M.P. — said the quiet part loud. Quote... "The only way to become a truly A.I.-native design team is through continuous education, programs, and investment in the brightest people."
+
+Kyle. This is the role you've been theorising about. Internal A.I. educator. Design team transformation. Not as a side thought... as a dedicated function with its own hire.
+
+Remember the friend-of-a-friend who got hired by R.A.M.P. as a full-time internal A.I. educator? This is the same company doubling down. They're not treating A.I. education as a one-off workshop. They're building a permanent capability around it.
+
+Elizabeth will lead culture initiatives, design team education programs, and external community events. That's three hats — culture, education, community. Sound familiar? Because that's exactly what you'd bring to the table.
+
+Here's what I'd do. Add Elizabeth Lin and Diego Zaks to your people file. Watch what R.A.M.P. publishes about this role over the next month. And when you're talking to Buildable Works or the Design Builder Community this week... reference this hire. It's proof that companies are investing real headcount in A.I.-native design education. You're not pitching a fantasy. You're pitching what R.A.M.P. is already paying for.
+
+Third section. Quick and practical.
+
+Someone surfaced a Claude Code trick worth knowing. Slash model opusplan. It's a hybrid alias. Uses Opus for planning and reasoning, then automatically switches to Sonnet for execution. Best of both worlds... Opus thinks, Sonnet builds.
+
+You're already managing thinking levels across agents. This is a native shortcut that could save you the toggling. Worth trying on your next Gilfoyle coding session.
+
+And on the Claude Code front... there's a growing consensus that Claude Code generates better U.I. than Codex. Someone put it perfectly... "Claude just has better taste." While G.P.T. five-point-four x-high apparently wins on complex systems codebases and code review.
+
+That validates your dual-harness approach. Claude Code for U.I. and design work. Codex for systems tasks. You landed on that instinctively. Now the data's backing it up.
+
+Two quick hits before I let you go.
+
+Tommy Geoco — your mate — dropped a new State of Play episode with Steve Ruiz from tldraw. Steve was about to start at Adobe. Job accepted. Bags packed. Start date Monday. Then he looked at his side project... two hundred thousand people were using it every month. He walked away from Adobe.
+
+His concept of "unmotivated work" is worth sitting with. Putting hours into problems with no clear payoff because your gut says something's there. That's how side projects become real companies. And frankly... that's how this whole Clawdbot setup started for you.
+
+Oh — and the Apple Watch haptics app for Claude Code is now open source. Buzzes your wrist when a coding task completes. Roasts you with a different message every time. Fun and functional for your Mac setup. Worth a look when you've got fifteen minutes.
+
+Action items for today.
+
+One — install Emil Kowalski's and Jakub Krehel's design skills for Claude Code. Test them this week.
+
+Two — add Elizabeth Lin and Diego Zaks to your radar. R.A.M.P.'s A.I. design education hire is your proof point for conversations this week.
+
+Three — try slash model opusplan on your next coding session. See if the Opus-thinks Sonnet-builds split actually speeds things up.
+
+That's the lot. Good things happening, mate. The world's catching up to what you've been building. Now go make the most of it.
