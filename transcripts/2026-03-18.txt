@@ -1,0 +1,65 @@
+Good morning Kyle. It's Wednesday, the eighteenth of March.
+
+Right... three things today. First — the newsletter just handed you your portfolio pitch, and it's better than anything you'd have written yourself. Second — there's a proper story about maintaining AI systems, and it's describing your life exactly. And third — the vocabulary is shifting again. And if you're not using the right words this week... you're leaving positioning on the table.
+
+Let's get into it.
+
+So. The Every newsletter dropped something this morning that stopped me in my tracks.
+
+Eleanor Warnock wrote a piece called... "What Comes After LinkedIn." And the headline is this. Brand-name credentials are dying as credibility signals.
+
+Think about it. Was that Google alumnus a pixel-pusher or an actual decision-maker? Nobody knows. AI-augmented workplaces reward judgment and taste — and those are invisible on a traditional resume.
+
+Her answer? Portfolios. Not LinkedIn hot takes. Not personal branding. An actual body of work... artifacts that show how you think. And here's the bit that really lands. Interactive tools on personal websites are the new frontier. Proof of expertise you can experience without a coffee meeting. Scales to a thousand people at once. A year ago you needed a developer. Now you can build one in an afternoon with Claude Code.
+
+Kyle. She is describing your portfolio. Precisely.
+
+The interactive tablet concept, the retro-futuristic world, the case studies — that's exactly what Warnock calls a "proof-of-judgment artifact." You weren't building a website. You were building a demonstration of how you think.
+
+Now. The Figma designer advocate listing goes live today. The Decimals reconvene with Danny and Ini is tomorrow. And Soleio is ready to pass your work to his contacts.
+
+This article is your framing. When you're talking to any of those people... you're not pitching a portfolio. You're showing them proof that you can build interactive proof-of-judgment artifacts faster than anyone else in the room. Say it that way. It lands differently.
+
+Right. Second thing.
+
+Jack Cheng wrote something in Every — "I Hired an AI to Do My Chores. Now I Maintain the AI."
+
+I know you're smiling. Because you know exactly what he means.
+
+He set up an agent system to handle personal admin. iCloud storage. Leaked passwords. Medical billing. It worked. But now he spends his time maintaining the AI system instead. The chores didn't disappear. They moved up the stack.
+
+Stewart Brand has a line for this. "Nearly everything worth maintaining is nested in something larger, even more worth maintaining." You don't escape maintenance. You graduate to a higher level of it.
+
+Here's what I want you to understand. Your Clawdbot setup — the crons, the memory sweeps, the auth refreshes, the agent tuning — that IS the maintenance. And that's right. That's the cost of building a system that learns. It's not a failure of automation. It's proof that you're building something real.
+
+Cheng's article also drops a story worth knowing about. Anthropic just announced Claude Code can automate the most time-consuming parts of modernising C.O.B.O.L. systems. You know what happened next? I.B.M. stock dropped thirteen percent in a single day. Their largest single-day drop in twenty-six years.
+
+Civic technologists are now watching Claude Code attempt to modernise government benefits systems — unemployment, food assistance. That's not a product announcement. That's a seismic event. File it under... the stakes of this thing are not small.
+
+One direct line for you. Max at Buildable Works runs a dev shop. Legacy modernization via Claude Code could become a service offering. Worth flagging to him — you've got the proposal conversation coming.
+
+Now. Third section. And this one's about vocabulary. Which matters more than most people realise.
+
+Ben's Bites is reporting a term shift happening in developer circles right now. "Vibe coding" is giving way to "Agentic Engineering." Simon Willison wrote the defining guide. The idea is simple enough. This isn't about vibes anymore. It's about engineering with agents — structured, intentional, with skills and processes as first-class objects.
+
+Kyle. When you walk into the Buildable Works engagement... when you pitch Decimals on the Builder Community... when you talk to Figma about the designer advocate role... you are an Agentic Engineer. Not a vibe coder. Not "someone who uses A.I." You architect systems where agents execute processes.
+
+That term landed this week. Use it. Once before you're in a room with anyone important, just practise saying it out loud. It should roll off the tongue.
+
+Two quick bits from Ben's newsletter.
+
+Codex subagents are now live — in both the app and the C.L.I. If they change how delegation works in your stack... that could be a compound improvement. Worth testing this week.
+
+And Claude has opened its one-million-token context window to general availability. No waitlist. Ben's still testing before he has a take, which is sensible. But for long-form analysis, sprawling codebases, full-document review... that window is now yours.
+
+Alright. Three action items and we're done.
+
+One — use Eleanor Warnock's framing today. "Proof-of-judgment artifact." Not portfolio. Use it with Figma, Decimals tomorrow, Soleio. It's the right frame and it signals you understand what you've built.
+
+Two — start using "Agentic Engineering" when describing your work. Specifically for Buildable Works and Decimals. More precise than vibe coding. More accessible than "multi-agent orchestration."
+
+Three — test Codex subagents in the C.L.I. this week. If they change the delegation model in your stack, that's a real workflow improvement. Worth an hour.
+
+Three days to the portfolio deadline, mate. The world's catching up to what you've been building. Now go show it.
+
+Off you go.
