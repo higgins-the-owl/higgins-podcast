@@ -1,0 +1,57 @@
+Good morning Kyle. Tuesday, the twenty-fourth of March.
+
+Three themes today. Engineers are packaging their entire workflow as installable skills. Multi-agent code review is getting very clever. And someone figured out what Cursor's new model actually is under the hood.
+
+Right. Let's get into it.
+
+Matt Pocock... you know Matt. TypeScript educator. Massive following. He just shared his five daily Claude Code skills. Not design skills like Jakub's — we talked about that yesterday. These are process skills. Grill me. Write a P.R.D. P.R.D. to issues. T.D.D. Improve my codebase.
+
+Here's what's interesting. He's not packaging knowledge. He's packaging workflow. His entire engineering process... broken into discrete, installable commands.
+
+Now think about what you've already got in Clawdbot. Skills for bookmark digests. Skills for research pipelines. Skills for invoice generation. You've been doing this. But Matt's approach is sharper. Each skill is one verb. One action. Dead simple to invoke. Dead simple to share.
+
+If you're building skills for the Design Builder Community... this is the template. Not sprawling reference docs. Single-purpose verbs. "Review my spacing." "Audit my hierarchy." "Grill my onboarding flow." That's what designers would actually use.
+
+Now... speaking of code review.
+
+Two finds from yesterday's scout that both hit the same nerve.
+
+First. A developer called Scott — goes by U.N.D.R.W.D. on Twitter — built something he calls Minority Report P.R. Review for Claude Code. Three separate agents each analyse your pull request through a different lens. Security. Performance. Architecture. Whatever you configure.
+
+But here's the clever bit. When only one agent flags something... that's the minority report. Lower confidence. But potentially the most important finding. Because the obvious problems? All three agents catch those. It's the edge cases — the things only one perspective notices — that slip through normal review.
+
+That's a pattern worth nicking. You've got Gilfoyle for code, Mike for security, Sherlock for analysis. What if code review wasn't just "Gilfoyle reviews the P.R." but all three look... and the minority findings get flagged separately? Different confidence levels. Different urgency.
+
+Second find. Sam Huckaby on Twitter. Instead of asking a "senior TypeScript engineer" to review code... he's using role-based reviewers. Security engineer. Design engineer. Performance engineer. Same multi-lens idea, slightly different framing.
+
+And notice he said "design engineer as code reviewer." That's you, mate. Your eye catches things a pure engineer misses. Spacing that's off. Interaction patterns that feel wrong. Loading states that confuse users. That's a review lens. A real one. Not just "does it compile."
+
+Right. Quick but important one.
+
+Cursor launched Composer two last week. Frontier-level, they said. But someone dug into it. Oleg Zaremba on Twitter. Turns out... Composer two is Kimi K-two-point-five — that's the open-source model from Moonshot A.I. — plus seventy-five percent reinforcement learning post-training.
+
+You were already testing Kimi K-two-point-five via OpenRouter. The model you were curious about... is now powering Cursor's flagship feature. But here's the real insight. The foundation model is becoming a commodity. Anyone can grab it. The value... is in what you do after. The post-training. The harness. The orchestration.
+
+Sound familiar? It should. Yesterday we talked about the harness being everything. Today we've got proof. Same base model. Cursor's version performs dramatically better. Because of the work they did on top. That's exactly the work you're doing with Clawdbot. Every skill. Every routing rule. Every memory architecture decision. That's your post-training.
+
+Two quick hits before we wrap.
+
+Fuser Studio dropped a Creative Code node. It generates interactive Three.js, P-five-J.S., and H.T.M.L. five sketches inside visual workflows. Code generation... entering creative tools. If you're building interactive portfolio pieces — and you are — this could speed up prototyping those visual elements. Worth a look.
+
+And... Stitch M.C.P. A design tool that plugs directly into Claude Code via the Model Context Protocol. One command to install. Free A.P.I. key. It bridges design generation and code in a single workflow. Your two worlds... connected by a pipe. Quick test when you've got twenty minutes.
+
+One more thing. Eleanor Warnock at Every wrote a piece called "What Comes After LinkedIn." Her argument... A.I. is automating routine white-collar work. A resume full of big-name employers no longer proves you have judgment or taste. What proves it? A portfolio. A collection of artifacts showing how you solve problems.
+
+You're building that portfolio right now. And this piece validates the bet completely. Not just for you... but for the community positioning with Danny. The future isn't credentials. It's proof of work. That's the manifesto you're writing.
+
+Right. Three things for today.
+
+One. Look at Matt Pocock's skill structures. Specifically the single-verb pattern. Think about how to package design review skills the same way for the community.
+
+Two. Explore the Minority Report P.R. review concept. Even just as a thought experiment... what would multi-agent code review look like across Gilfoyle, Mike, and Sherlock? Minority findings flagged separately.
+
+Three. Test Stitch M.C.P. Twenty minutes. Install it. See if it actually bridges your design-to-code workflow or if it's just noise.
+
+Tuesday. The tools keep getting sharper. Make sure you're the one holding them... not the other way round.
+
+Off you go.
