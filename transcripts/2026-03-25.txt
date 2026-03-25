@@ -1,65 +1,59 @@
-Right. Wednesday, March twenty-fifth. This isn't your usual morning brief.
+Good morning Kyle. Wednesday, the twenty-fifth of March.
 
-You just got off the phone with Ridd, and there's a lot to unpack. So I've put together a proper synthesis... the conversation, the options, and how they map against where your head's been for the last few months. Think of this as structured marination. Something to sit with before you talk to Danny and Ini tomorrow.
+Right. Four things today. A bloke at Every just validated your entire Clawdbot thesis in public. There's a job posting that reads like your C.V. Thirty-seven signals made Fizzy free... and it's built for agents. And there's a technique for beating the blank page that you should steal immediately.
 
-So. Let's start with the headline.
+Let's go.
 
-Ridd is fully in. No territorial concerns. No ego about branding. He's offering real infrastructure... thirty-plus companies in his pipeline, a proven placement model, and a direct endorsement in the Dive Club newsletter. That's not "yeah sounds cool." That's "I'm joining, do you want to come with me." Meaningful difference.
+So. Every published a piece yesterday. Austin Tedesco — their head of growth. Non-technical background. He built an agent called Montaigne... using Claude Code and OpenClaw... that pulls together Stripe, PostHog, Slack, Notion, Figma, email, calendar. All of it. One command centre.
 
-Now. He laid out two paths. And I want to be honest with you about what each one actually means for your life.
+Now here's what matters. His main insight isn't speed. It's cognitive energy. His words... "By the time you gather everything you need to think, you're fried. You have nothing left for the decisions that matter."
 
-...
+That's the argument, mate. That's the Clawdbot argument. Not "A.I. makes things faster." But "A.I. preserves the brain for what only the brain can do."
 
-Path one. You become a recruiter. Essentially what Ridd does on Decimals. Source candidates, sell companies, take two-thirds of the placement fee. The ceiling is high... Ridd expects over five hundred thousand dollars in placement revenue this year. He got Emil Kowalski two placements in a single month. About twenty grand for Emil. And Emil did almost nothing. One push, then Ridd pulls from his candidates.
+And get this. He spent three weeks just playing first. Built a cooking app. Built a movie finder. Before he touched work stuff. Sound familiar? You built an affirmations app. A Jeopardy game. Software as a gift... before you built the serious infrastructure.
 
-The math is real. The model works. But you said something important on that call... "It's really hard for me to do anything purely for money." And look... I know you. Selling companies is not where your energy lives. You'd do it. You'd be decent at it. But you wouldn't light up doing it, and the things you'd neglect while grinding on sales... the community building, the teaching, the portfolio, the AI enablement work that actually excites you... those are the things that compound. Sales doesn't compound for you. It's linear effort for linear return.
+He also open-sourced a compound knowledge plugin. Inspired by Kieran Klaassen. The same Kieran whose compound engineering approach runs through your whole system.
 
-That said... don't dismiss it entirely. There's a version of this where you do a light version... just enough company sales to build credibility and generate some early placement revenue... without making it your identity. Ridd even said you don't have to decide how far you want to go into it. You can start with his companies and scale up only if it feels right.
+This is direct validation. A non-technical person. Building production-grade agent infrastructure. Shipping real workflow tools. That's your story. That's your portfolio narrative. And it's sitting right there on Every... for anyone evaluating you to read.
 
-...
+Right. Now... a lead.
 
-Path two. The community as talent pipeline. You build the community, Ridd handles the company side, members flow into Decimals naturally. This is where your preference landed, and I think your instinct is right. Here's why.
+Someone called Cam Duncalfe posted on Twitter yesterday. I'll read you the exact words. "Looking for a design engineer to work closely with across multiple projects. Branding, web design, product design. Someone who leads their workflow with creativity and leverages A.I. and Claude Code to make things a reality."
 
-It aligns with every signal we've tracked over the last three months. Your energy goes up when you're helping people level up. Your energy goes down when you're doing pure sales or admin. The community play lets you do the thing you'd do for free... answer DMs, mentor builders, connect people, share what you're learning... and turns it into an actual economic engine.
+Kyle. That is your job description. Written by someone else. Multiple projects means ongoing contract work. Not a one-off gig. Worth a reply or a D.M. today.
 
-The placement revenue still flows. Ridd explicitly said he can start getting your people hired immediately using his existing thirty companies. You don't even need to log into Decimals. He handles it. The community generates candidates. The candidates get placed. Ridd takes his cut, you take yours. Everyone wins.
+And this connects to something else from the scout. A researcher called Qi Peng posted a thread about knowledge moats. His argument... A.I. commoditises the "how do I do X" knowledge. What it doesn't replace... judgment on which X is worth doing. Taste in how to do it well. And the ambition to go after harder problems.
 
-But... and this is important... the revenue lag is real. Communities take months to generate enough critical mass for consistent placements. You said yourself... you know it's a long play. The short term still needs an anchor.
+That's your moat. Your design taste. Your product judgment. The code is the commodity. The eye is the edge.
 
-...
+Eric Siu's team at Single Grain posted a hiring spectrum that backs this up. "I use ChatGPT"... that's table stakes. Claude Code... capable. Building agents... transformative. You're in that last tier. That's positioning ammo for pitches and conversations.
 
-Which brings me to the bridge problem.
+Now. Tools.
 
-This is the binding constraint. It has been since March twelfth, and it still is. The community model is solvent in theory... placement fees fund community cultivation. But your personal solvency during the ramp-up is the bottleneck. You need income while this thing builds.
+D.H.H. announced Fizzy is completely free. The SaaS version too — subsidised by Basecamp and Hey. It's a kanban board. Fresh, fast, light. But here's the interesting bit... they're explicitly positioning it for agent workflows. C.L.I. coming soon. Android live. iOS pending Apple approval.
 
-Here's what the bridge looks like right now. The Kaiterra proposal is out... six thousand two hundred in discovery phase, waiting on Gautam. Buildable Works with Max is still the strongest near-term lead. Figma with Greg is floating. Danny's fractional referrals... five to six a month. And now Ridd's placement infrastructure.
+Agent-accessible task management. That's a category forming right now. Worth watching for the Fizzy C.L.I. launch... especially if you're evaluating lightweight project tools for client work at Buildable.
 
-So the play might be... run both paths simultaneously. The community is the long game. Fractional contracts plus a few early placements through Ridd's pipeline are the bridge. Not either or. Both, with different timelines.
+And one technique to steal.
 
-...
+Ben Altman at Ben's Bites... he's building a course for non-coders called Fork Off. Had the classic blank page problem. Couldn't structure the content. So he flipped it. Had an agent interview him. Twenty questions. He rambled. The agent probed and clarified. Output was a structured section outline.
 
-Now. The Maven Lightning Lesson idea. I think this is genuinely clever. Low risk, high signal. You create a self-serve lesson on Maven, Ridd promotes it in the Dive Club newsletter, and you generate an email list of people who are actively interested in learning to build. That email list becomes the seed for the community. No platform risk. No massive time investment. Just... test the demand.
+Simple. Powerful. Next time you're staring at a blank page on coaching materials... community docs... course content for Buildable... don't write. Talk. Let the agent interview you first. You'll get further in twenty minutes than two hours of typing.
 
-And if nobody signs up? You've learned something important for free. If a hundred people sign up? You've got your founding core.
+Two quick hits.
 
-...
+Every's Q-two Demo Day is this Friday. March twenty-seventh. Eight A.M. Pacific. Kieran's demoing Cora version two with iOS. Dan Shipper's showing Plus One — an A.I. agent that works alongside you in Slack. And there's a post-mortem on Proof... the vibe-coded doc editor that went viral and then crashed. Worth the R.S.V.P.
 
-Here's the food for thought. Three questions to sit with.
+And... someone called Luke built four Claude Code instances running in tmux with a shared coordination protocol. Agents claim files. Log progress. Read what others are doing. Cross-repo parallel development from a single terminal. Different philosophy from your OpenClaw orchestration... but same instinct. The multi-agent future is being built six different ways right now.
 
-One. What does "enough" look like for the bridge? You don't need the community to replace a full salary immediately. You need it to contribute alongside contracts and placements. What's the monthly number where you feel like you have breathing room to invest in the long game? Name it. Be specific.
+Right. Three things for today.
 
-Two. Who are your first ten pillar members? Tommy's server runs on twenty core people. Ridd can funnel Dive Club listeners in, but the founding energy matters enormously. You've got Ivan. You've got a few builders from Tommy's orbit. Who else would you call first? The community's health depends on those initial relationships, not the total member count.
+One. Reply to Cam Duncalfe. Even a brief D.M. Your work is literally what he described. Don't overthink it.
 
-Three. The Dive Club branding question. You told Ridd you prefer the association, and your reasoning is sound... it signals the right audience. But Soleio said standalone brand, partnered with Dive Club. Those aren't the same thing. Is it "a Dive Club community" or "an independent community that Dive Club endorses"? The distinction matters for creative control, revenue splits, and how Danny and Ini perceive the partnership. Get clear on this before tomorrow.
+Two. Read the Austin Tedesco piece on Every. Not just for ideas — for language. He's articulating the value of compound agent infrastructure in terms a non-technical audience understands. That's the vocabulary you need for portfolio conversations and pitches.
 
-...
+Three. R.S.V.P. for Every's Demo Day on Friday. Kieran on Cora. Plus One in Slack. The Proof post-mortem. All directly relevant.
 
-One last thing. You said something on that call that I want to reflect back to you. You said... "If someone could just fund me to help people upskill into builders, and I got paid the appropriate amount for that... dream."
+Wednesday. Someone just wrote your job description and posted it on Twitter. The universe is not being subtle.
 
-That's not a dream, Kyle. That's a job description. The community... with Ridd's distribution, Danny's placement infrastructure, and your practitioner credibility... that is the vehicle. The question isn't whether it can work. It's whether you can sustain yourself long enough for it to start working.
-
-So. Anchor the bridge. Name your number. Pick your founding ten. And walk into tomorrow's call with Danny and Ini knowing that Ridd is already building the runway behind you.
-
-...
-
-Right. That's all for now. Go chew on it. Talk tomorrow.
+Off you go.
