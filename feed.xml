@@ -20,7 +20,126 @@
       <link>https://higgins-the-owl.github.io/higgins-podcast</link>
     </image>
     <atom:link href="https://higgins-the-owl.github.io/higgins-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 25 Mar 2026 11:53:29 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 06:03:04 -0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Thursday, March 26, 2026</title>
+      <description>Good morning Kyle. Thursday, the twenty-sixth of March.
+
+Right. Three things today. The founding design engineer is having a moment... and everyone's pointing at your lane. Mike Krieger — yes, that Mike Krieger — just explained why building too fast will wreck you. And Lenny Rachitsky dropped a live hiring thread you need to be inside of today.
+
+Let's get into it.
+
+So. The design engineer archetype. It came up three separate times in the last twenty-four hours. That's not coincidence. That's a signal.
+
+First... Ridd's new Dive Club episode. Flora Guo. She's the founding design engineer at Paradigm — an A.I. startup. Before that, she was at Vercel. Guillermo personally D.M.'d her to join. Ridd called her career trajectory one of the most impressive he's interviewed.
+
+Now here's what's relevant. Flora's path is designer... who learned to build... who got embedded early at a high-growth company. She talks about evolving her workflow with Claude Code over the past year. Mental models for using A.I. as a learning tool. Designing A.I.-first products at scale.
+
+That's your trajectory, mate. Different companies. Same shape.
+
+Second. Double Diamond dropped an hour-long interview with someone called D.B. Abbs. Co-founder and C.T.O. at Profound. Ex-Uber design engineer. Went from design engineer to billion-dollar founder. And at the forty-nine minute mark... he talks about what makes a design portfolio stand out.
+
+Forty-nine minutes and two seconds. That's your bookmark. Portfolio advice from someone who lived the exact transition you're making.
+
+Third. Mike Krieger. Instagram co-founder. Now co-leading Anthropic Labs. He sat down with Dan Shipper on the A.I. and I podcast.
+
+His model at Anthropic Labs? Two people per experiment. One P.M. slash designer. One engineer. That's it. Bigger teams are too slow. The coordination overhead kills you.
+
+That validates everything about the solo builder plus A.I. agent approach. When you're pitching Buildable Works... or talking to anyone about how you work... frame lean teams as a feature. Not a constraint. Krieger does it this way on purpose.
+
+But here's the bit that matters most.
+
+Krieger's warning. And I'm going to quote him. "Building too much, too fast with agents is a trap. You can go from idea to a nearly-shipped product in a day... but that process doesn't give you the incremental feedback that used to tell you what not to build."
+
+Read that again slowly. A.I. lets you add features trivially. So you add them. And suddenly you've got a product that does everything... and coheres as nothing.
+
+Your design background is the antidote to this. You naturally think about information architecture. User experience. What to remove. Most builders don't. That's edge, not overhead.
+
+He also said... throw out your product every three to six months. A.I. progress means infrastructure goes stale fast. Best teams build that into their strategy. Worth considering for Clawdbot. What parts of the current setup are already past their sell-by date?
+
+Right. Quick pivot. Lenny Rachitsky.
+
+He posted "Who's hiring designers right now?" yesterday. Eighty-nine replies. Three hundred and seventy-one likes. It's a live, crowdsourced hiring thread. Companies actively posting what they need.
+
+This is the kind of thing that disappears in a day. Get in there today. Filter for design engineer roles. A.I.-native teams. Anything that matches your profile. Cross-reference the strong matches with Ridd's network and what Soleio's offered.
+
+Now. Two tool updates worth knowing.
+
+Matt Van Horn shipped a Codex fallback mode for compound engineering. Beta. But the idea is... when Claude Code credits run out, it switches to Codex automatically. Same workflow. Different provider. Multi-harness resilience. That's directly useful for your daily work.
+
+And here's a market signal. Every is now selling a "Claude Code for Absolute Beginners" course. April fourteenth. Early bird price... one thousand and fifty dollars. Ends today, actually.
+
+You obviously don't need the course. But the fact that Every is monetising Claude Code education at a thousand dollars a head? That's validation for your coaching aspirations. The market exists. The price point is established. Your differentiator is taste. You're not teaching code. You're teaching building with design judgment.
+
+One more thing. Gustaf Palm raised the question every multi-agent builder eventually hits. When a worker agent produces bad output... does the leader catch it? Or do errors compound? His words... "that's where most multi-agent setups I've tried fall apart."
+
+With nine agents in your system, error propagation is a real concern. Worth thinking about. What's your error boundary? When Gilfoyle produces something off, does Sherlock catch it... or does it cascade through?
+
+Right. Three things for today.
+
+One. Watch the Flora Guo episode on Dive Club. Her Claude Code workflow evolution and founding design engineer narrative are directly relevant to how you position yourself.
+
+Two. Mine Lenny's hiring thread. Today. Before it goes stale. Filter for design engineer and A.I.-native roles. Send the best matches to yourself.
+
+Three. Queue up the D.B. Abbs interview. Skip to forty-nine oh two for the portfolio advice... but the whole thing is worth it when you've got an hour.
+
+Thursday. The design engineer moment is here. Three separate sources. Same message. Your lane.
+
+Off you go.</description>
+      <enclosure url="https://higgins-the-owl.github.io/higgins-podcast/episodes/2026-03-26.mp3" length="7147244" type="audio/mpeg" />
+      <guid isPermaLink="true">https://higgins-the-owl.github.io/higgins-podcast/episodes/2026-03-26.mp3</guid>
+      <pubDate>Thu, 26 Mar 2026 06:00:00 -0700</pubDate>
+      <itunes:duration>05:57</itunes:duration>
+      <itunes:summary>Good morning Kyle. Thursday, the twenty-sixth of March.
+
+Right. Three things today. The founding design engineer is having a moment... and everyone's pointing at your lane. Mike Krieger — yes, that Mike Krieger — just explained why building too fast will wreck you. And Lenny Rachitsky dropped a live hiring thread you need to be inside of today.
+
+Let's get into it.
+
+So. The design engineer archetype. It came up three separate times in the last twenty-four hours. That's not coincidence. That's a signal.
+
+First... Ridd's new Dive Club episode. Flora Guo. She's the founding design engineer at Paradigm — an A.I. startup. Before that, she was at Vercel. Guillermo personally D.M.'d her to join. Ridd called her career trajectory one of the most impressive he's interviewed.
+
+Now here's what's relevant. Flora's path is designer... who learned to build... who got embedded early at a high-growth company. She talks about evolving her workflow with Claude Code over the past year. Mental models for using A.I. as a learning tool. Designing A.I.-first products at scale.
+
+That's your trajectory, mate. Different companies. Same shape.
+
+Second. Double Diamond dropped an hour-long interview with someone called D.B. Abbs. Co-founder and C.T.O. at Profound. Ex-Uber design engineer. Went from design engineer to billion-dollar founder. And at the forty-nine minute mark... he talks about what makes a design portfolio stand out.
+
+Forty-nine minutes and two seconds. That's your bookmark. Portfolio advice from someone who lived the exact transition you're making.
+
+Third. Mike Krieger. Instagram co-founder. Now co-leading Anthropic Labs. He sat down with Dan Shipper on the A.I. and I podcast.
+
+His model at Anthropic Labs? Two people per experiment. One P.M. slash designer. One engineer. That's it. Bigger teams are too slow. The coordination overhead kills you.
+
+That validates everything about the solo builder plus A.I. agent approach. When you're pitching Buildable Works... or talking to anyone about how you work... frame lean teams as a feature. Not a constraint. Krieger does it this way on purpose.
+
+But here's the bit that matters most.
+
+Krieger's warning. And I'm going to quote him. "Building too much, too fast with agents is a trap. You can go from idea to a nearly-shipped product in a day... but that process doesn't give you the incremental feedback that used to tell you what not to build."
+
+Read that again slowly. A.I. lets you add features trivially. So you add them. And suddenly you've got a product that does everything... and coheres as nothing.
+
+Your design background is the antidote to this. You naturally think about information architecture. User experience. What to remove. Most builders don't. That's edge, not overhead.
+
+He also said... throw out your product every three to six months. A.I. progress means infrastructure goes stale fast. Best teams build that into their strategy. Worth considering for Clawdbot. What parts of the current setup are already past their sell-by date?
+
+Right. Quick pivot. Lenny Rachitsky.
+
+He posted "Who's hiring designers right now?" yesterday. Eighty-nine replies. Three hundred and seventy-one likes. It's a live, crowdsourced hiring thread. Companies actively posting what they need.
+
+This is the kind of thing that disappears in a day. Get in there today. Filter for design engineer roles. A.I.-native teams. Anything that matches your profile. Cross-reference the strong matches with Ridd's network and what Soleio's offered.
+
+Now. Two tool updates worth knowing.
+
+Matt Van Horn shipped a Codex fallback mode for compound engineering. Beta. But the idea is... when Claude Code credits run out, it switches to Codex automatically. Same workflow. Different provider. Multi-harness resilience. That's directly useful for your daily work.
+
+And here's a market signal. Every is now selling a "Claude Code for Absolute Beginners" course. April fourteenth. Early bird price... one thousand and fifty dollars. Ends today, actually.
+
+You</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Morning Brief — Wednesday, March 25, 2026</title>
       <description>Good morning Kyle. Wednesday, the twenty-fifth of March.
