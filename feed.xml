@@ -20,7 +20,7 @@
       <link>https://higgins-the-owl.github.io/higgins-podcast</link>
     </image>
     <atom:link href="https://higgins-the-owl.github.io/higgins-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 26 Mar 2026 11:13:24 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 20:53:49 -0700</lastBuildDate>
     <item>
       <title>Morning Brief — Thursday, March 26, 2026</title>
       <description>Good morning Kyle. Thursday, the twenty-sixth of March.
@@ -142,9 +142,9 @@ You</itunes:summary>
     </item>
     <item>
       <title>Meeting Recap: Builder Community Sync — Thursday, March 26, 2026</title>
-      <description>Right. Thursday, March twenty-sixth. Kyle just wrapped a conversation with Danny Martinez and Ini from Decimals about the builder community. This is a synthesis of that conversation... what was decided, what's still open, and what it all means.
+      <description>Right. Thursday, March twenty-sixth. Kyle just wrapped a conversation with Danny Martinez and Eenee from Decimals about the builder community. This is a synthesis of that conversation... what was decided, what's still open, and what it all means.
 
-For context... this follows yesterday's call with Ridd, where Ridd confirmed he's fully in. Thirty-plus companies in his talent pipeline, a direct endorsement in the Dive Club newsletter, and two options on the table... Kyle goes full recruiter, or the community becomes a talent pipeline with Ridd handling the company side. Kyle's leaning toward the community path. Danny and Ini hadn't heard all of that yet when this call started. So today was about bringing everyone onto the same page and figuring out the actual shape of the thing.
+For context... this follows yesterday's call with Ridd, where Ridd confirmed he's fully in. Thirty-plus companies in his talent pipeline, a direct endorsement in the Dive Club newsletter, and two options on the table... Kyle goes full recruiter, or the community becomes a talent pipeline with Ridd handling the company side. Kyle's leaning toward the community path. Danny and Eenee hadn't heard all of that yet when this call started. So today was about bringing everyone onto the same page and figuring out the actual shape of the thing.
 
 ...
 
@@ -160,7 +160,7 @@ The plan is to identify those people, have individual ambassador conversations w
 
 ...
 
-Second... the purge mechanism. This came up because Ini had a visceral reaction to the word "purge." Fair enough... it sounds aggressive. But the design is actually quite elegant. Here's how it works.
+Second... the purge mechanism. This came up because Eenee had a visceral reaction to the word "purge." Fair enough... it sounds aggressive. But the design is actually quite elegant. Here's how it works.
 
 Once a month... or whatever cadence you land on... an announcement goes out. Everyone is marked for removal by default. You click a button that says "I'm still here. Don't remove me." That's it. No activity metrics. No posting requirements. No performance pressure. Just a conscious choice to stay.
 
@@ -168,11 +168,11 @@ The insight here is that it filters for intentionality, not activity. Someone wh
 
 ...
 
-Third... the physical events strategy. Ini's London events are the template. She's run three under the "Designers Building Cool Shit" banner. The next evolution is a launch event... "Jollof Under the Stars"... a summer evening at her place in London. Six to ten pm. Food. Demos. Networking. No presentations, no panels. Just builders in a garden showing each other what they're making.
+Third... the physical events strategy. Eenee's London events are the template. She's run three under the "Designers Building Cool Shit" banner. The next evolution is a launch event... "Jollof Under the Stars"... a summer evening at her place in London. Six to ten pm. Food. Demos. Networking. No presentations, no panels. Just builders in a garden showing each other what they're making.
 
 The important decision here... no hybrid events. Virtual and in-person are separate tracks. Hybrid is technically painful and experientially awkward for everyone. In-person events are the cherry on top when geography allows. Virtual programming is the backbone.
 
-And there's expansion potential. New York... especially once Ini moves there. San Francisco obviously. Even Seattle, though the tech scene there is more corporate. The idea of local chapters that spin up after a launch event establishes the initial community... that could be real, but it's later. Not now.
+And there's expansion potential. New York... especially since Eenee will be working EST hours for her new company, which creates natural overlap with the US side. San Francisco obviously. Even Seattle, though the tech scene there is more corporate. The idea of local chapters that spin up after a launch event establishes the initial community... that could be real, but it's later. Not now.
 
 ...
 
@@ -184,7 +184,7 @@ Stream two. Company lead generation through Decimals. Kyle spots companies that 
 
 Stream three. Premium educational offerings. Maven courses. One-on-one coaching for companies investing in AI adoption. Kyle's expertise packaged into structured learning. This aligns with the Maven Lightning Lesson idea Ridd suggested yesterday... test demand with a free lesson, build an email list, then develop paid offerings if the signal is strong.
 
-The realistic timeline Danny and Kyle agreed on... eighteen months before meaningful revenue. Which means the bridge income problem is still the binding constraint. Placement splits, fractional contracts, and company lead generation are the bridge. The community is the long game.
+The realistic timeline Danny and Kyle discussed... about eighteen months before things are flowing smoothly on the cash front from the community. Not "no money until then"... but eighteen months to the point where the revenue engine is humming. Which means the bridge income problem is still real in the interim. Placement splits, fractional contracts, and company lead generation are the bridge. The community is the long game.
 
 ...
 
@@ -202,9 +202,9 @@ Now. Here's what's still open.
 
 The content and programming cadence needs definition. Monthly show-and-tells are confirmed. Open mic sessions will be virtual. But the workshop format... what exactly does a builder community workshop look like? Is it live coding? Pair building? Critique sessions? That's TBD.
 
-The interview format for guests was discussed... having builders come on and talk about their transition journey rather than doing formal presentations. Lower barrier, more authentic. The Attio designer example Ini mentioned... someone who went from "what is CRM?" to machine learning engineering... that's the kind of story that would anchor a session.
+The interview format for guests was discussed... having builders come on and talk about their transition journey rather than doing formal presentations. Lower barrier, more authentic. The Attio designer example Eenee mentioned... someone who went from "what is CRM?" to machine learning engineering... that's the kind of story that would anchor a session.
 
-The founding ten to fifteen. Names were floated. David from Decimals' organic Slack feedback channel. People from Tommy's server. Ini's London event regulars. But the actual list needs to be compiled and the ambassador conversations need to happen. That's the next concrete action.
+The founding ten to fifteen. Names were floated. David from Decimals' organic Slack feedback channel. People from Tommy's server. Eenee's London event regulars. But the actual list needs to be compiled and the ambassador conversations need to happen. That's the next concrete action.
 
 ...
 
@@ -222,20 +222,20 @@ One. Who are the ten to fifteen? This is the single most important decision befo
 
 Two. The Maven Lightning Lesson. Ridd offered to promote it. Danny's lead gen model is ready. If you run a free lesson on... say... "How a Designer Becomes a Builder in the AI Era"... you get demand signal, an email list, and content all in one move. That could happen in the next two to three weeks if you prioritize it.
 
-Three. Your bridge. Eighteen months to meaningful community revenue means eighteen months of needing other income. The company lead generation path through Decimals is the most actionable near-term revenue that also builds community credibility. Every company Kyle helps Danny land is another success story for the community.
+Three. Your bridge. Eighteen months until the community revenue is flowing smoothly means you still need solid income sources in the meantime. The company lead generation path through Decimals is the most actionable near-term revenue that also builds community credibility. Every company Kyle helps Danny land is another success story for the community.
 
 ...
 
 Right. That's the state of play. The bones are there. Now it needs muscle.
 
 Talk soon.</description>
-      <enclosure url="https://higgins-the-owl.github.io/higgins-podcast/episodes/2026-03-26-builder-community-sync.mp3" length="10853324" type="audio/mpeg" />
+      <enclosure url="https://higgins-the-owl.github.io/higgins-podcast/episodes/2026-03-26-builder-community-sync.mp3" length="11110124" type="audio/mpeg" />
       <guid isPermaLink="true">https://higgins-the-owl.github.io/higgins-podcast/episodes/2026-03-26-builder-community-sync.mp3</guid>
       <pubDate>Thu, 26 Mar 2026 12:00:00 -0700</pubDate>
-      <itunes:duration>09:02</itunes:duration>
-      <itunes:summary>Right. Thursday, March twenty-sixth. Kyle just wrapped a conversation with Danny Martinez and Ini from Decimals about the builder community. This is a synthesis of that conversation... what was decided, what's still open, and what it all means.
+      <itunes:duration>09:15</itunes:duration>
+      <itunes:summary>Right. Thursday, March twenty-sixth. Kyle just wrapped a conversation with Danny Martinez and Eenee from Decimals about the builder community. This is a synthesis of that conversation... what was decided, what's still open, and what it all means.
 
-For context... this follows yesterday's call with Ridd, where Ridd confirmed he's fully in. Thirty-plus companies in his talent pipeline, a direct endorsement in the Dive Club newsletter, and two options on the table... Kyle goes full recruiter, or the community becomes a talent pipeline with Ridd handling the company side. Kyle's leaning toward the community path. Danny and Ini hadn't heard all of that yet when this call started. So today was about bringing everyone onto the same page and figuring out the actual shape of the thing.
+For context... this follows yesterday's call with Ridd, where Ridd confirmed he's fully in. Thirty-plus companies in his talent pipeline, a direct endorsement in the Dive Club newsletter, and two options on the table... Kyle goes full recruiter, or the community becomes a talent pipeline with Ridd handling the company side. Kyle's leaning toward the community path. Danny and Eenee hadn't heard all of that yet when this call started. So today was about bringing everyone onto the same page and figuring out the actual shape of the thing.
 
 ...
 
@@ -251,7 +251,7 @@ The plan is to identify those people, have individual ambassador conversations w
 
 ...
 
-Second... the purge mechanism. This came up because Ini had a visceral reaction to the word "purge." Fair enough... it sounds aggressive. But the design is actually quite elegant. Here's how it works.
+Second... the purge mechanism. This came up because Eenee had a visceral reaction to the word "purge." Fair enough... it sounds aggressive. But the design is actually quite elegant. Here's how it works.
 
 Once a month... or whatever cadence you land on... an announcement goes out. Everyone is marked for removal by default. You click a button that says "I'm still here. Don't remove me." That's it. No activity metrics. No posting requirements. No performance pressure. Just a conscious choice to stay.
 
@@ -259,11 +259,11 @@ The insight here is that it filters for intentionality, not activity. Someone wh
 
 ...
 
-Third... the physical events strategy. Ini's London events are the template. She's run three under the "Designers Building Cool Shit" banner. The next evolution is a launch event... "Jollof Under the Stars"... a summer evening at her place in London. Six to ten pm. Food. Demos. Networking. No presentations, no panels. Just builders in a garden showing each other what they're making.
+Third... the physical events strategy. Eenee's London events are the template. She's run three under the "Designers Building Cool Shit" banner. The next evolution is a launch event... "Jollof Under the Stars"... a summer evening at her place in London. Six to ten pm. Food. Demos. Networking. No presentations, no panels. Just builders in a garden showing each other what they're making.
 
 The important decision here... no hybrid events. Virtual and in-person are separate tracks. Hybrid is technically painful and experientially awkward for everyone. In-person events are the cherry on top when geography allows. Virtual programming is the backbone.
 
-And there's expansion potential. New York... especially once Ini moves there. San Francisco obviously. Even Seattle, though the tech scene there is more corporate. The idea of local chapters that spin up after a launch event establishes the initial community... that could be real, but it's later. Not now.
+And there's expansion potential. New York... especially since Eenee will be working EST hours for her new company, which creates natural overlap with the US side. San Francisco obviously. Even Seattle, though the tech scene there is more corporate. The idea of local chapters that spin up after a launch event establishes the initial community... that could be real, but it's later. Not now.
 
 ...
 
@@ -271,7 +271,7 @@ Fourth... monetization. And this is where it gets interesting, because three dis
 
 Stream one. Freelancer deployment network. Companies come to Decimals needing temporary help while they hire full time. Instead of just placing a candidate, you deploy a community member as a freelancer for project-based work. The mechanism for how Kyle's community specifically plugs into that still needs definition, but the demand exists.
 
-Stream two. Company lead generation through Decimals. Kyle spots companies that are hiring... say, someone posting on Twitter looking for a design engineer. Kyle finds the lead, Danny handles the sales call and contra</itunes:summary>
+Stream two. Company lead generation through Decimals. Kyle spots companies that are hiring... say, someone posting on Twitte</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
