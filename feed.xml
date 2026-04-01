@@ -20,7 +20,132 @@
       <link>https://higgins-the-owl.github.io/higgins-podcast</link>
     </image>
     <atom:link href="https://higgins-the-owl.github.io/higgins-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 29 Mar 2026 06:03:32 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 06:03:51 -0700</lastBuildDate>
+    <item>
+      <title>Morning Brief — Wednesday, April 1, 2026</title>
+      <description>Good morning Kyle. Tuesday... the first of April.
+
+Now. Before you say anything... no. None of this is an April Fools joke. I wish it were... because the first item is a proper security scare.
+
+Three things today. A supply chain attack you need to act on immediately. A massive Claude Code power-user thread that's basically a cheat sheet. And OpenClaw is becoming something rather different under the hood.
+
+Let's go.
+
+Right. The urgent one first. Axios... the HTTP library... was compromised.
+
+An attacker hijacked a lead maintainer's npm account. Swapped their email to an anonymous Protonmail address. Bypassed GitHub Actions entirely. And manually pushed a malicious version... one-point-fourteen-point-one... straight through the npm CLI.
+
+Here's what it does. It installs a package called plain-crypto-js. That package detects your operating system... downloads a platform-specific payload... executes it... then deletes itself and replaces its own package dot-json with a clean decoy. A full remote access trojan dropper. Very nasty. Very clever.
+
+Axios has over a hundred million weekly npm downloads. So this is not small.
+
+Here's what you do. Today. Pin Axios to one-point-fourteen-point-zero or lower in every project. Run npm audit. Search your node modules for plain-crypto-js. If it's there... you've got a problem. Don't run npm install with latest Axios until this is resolved.
+
+And honestly... this is a good prompt to add lockfile auditing as a standard step in any C.I. pipeline. Mike would approve.
+
+Right. Moving on. Something more pleasant.
+
+Boris Cherny dropped a thread on Claude Code that's gotten twenty-two thousand likes. Fifteen hidden features most people don't know about. And look... some of these are genuinely game-changing for how you work.
+
+First... slash-loop and slash-schedule. You can schedule recurring agent tasks. Babysit P.R.s. Monitor Slack feedback. Clean up stale branches. Sound familiar? That's basically what your cron system does... but built right into Claude Code itself.
+
+Second... slash-batch. Fan out to dozens... hundreds... even thousands of agents working in parallel across git worktrees. For massive migrations or refactors... this is the nuclear option. In a good way.
+
+Third... the bare flag. Double-dash-bare. Skips all the CLAUDE dot-M.D. files... settings... M.C.P. search on startup. Ten-times faster SDK startup. For your subagent spawns in Clawdbot... this could be significant.
+
+Fourth... hooks. Deterministic lifecycle logic. Dynamic context loading on session start. Command logging before tool use. Permission routing. Auto-continue on stop. This mirrors what your OpenClaw workspace injection already does... but it's worth studying how they've structured it.
+
+And then there's slash-branch for forking sessions... slash-btw for side queries while the main agent works... and voice-first coding. Boris says he does most of his coding by speaking now.
+
+The whole thread is worth bookmarking. But the immediate wins for you... test the bare flag on subagent spawns... and look at slash-batch next time you've got a large codebase migration.
+
+Now. Third thing. And this one's architecturally important.
+
+OpenClaw is becoming an M.C.P. server.
+
+Michael Chomsky... who runs StartClaw... the cloud OpenClaw provider... published a deep analysis of what's happening under the hood. The core insight... OpenClaw is separating its messaging layer from the A.I. brain.
+
+Before... you needed custom WebSocket glue. Self-signed T.L.S. Health check polling. Chat relay bridging. Thousands of lines of plumbing.
+
+Now... nine M.C.P. tools. Messages read. Messages send. Events poll. Conversations list. Any M.C.P. client connects directly. One hop instead of three.
+
+Here's why this matters for you specifically. It means a Claude Code session could send Discord messages directly through OpenClaw... without going through the full agent harness layer. Your nine-agent setup could get simpler and faster.
+
+Three P.R.s to watch. Fifty-three-ninety-six for H.T.T.P. and S.S.E. transport... that's the big one for remote connections. Fifty-four-nine-five-seven for persistent M.C.P. lifecycle. And forty-nine-one-eight-two for cryptographic signing.
+
+This is an architecture shift... not a feature. Worth keeping an eye on.
+
+One quick bonus. Remember Sunday's episode... Cheng Lou's text measurement algorithm? Lucas Crespo built something beautiful on top of it. A two-line fix for pinch-to-zoom on mobile. Instead of zooming the page... it resizes the text. The insight is simple but brilliant... you want bigger text... not a bigger page.
+
+That's the kind of micro-interaction polish that separates good mobile work from great. Worth studying for your portfolio's mobile experience.
+
+Right. Three things for your Tuesday.
+
+One. Audit your projects for Axios. Pin to one-point-fourteen-point-zero. Check for that plain-crypto-js package. Do this today... not tomorrow.
+
+Two. Try the bare flag on a Clawdbot subagent spawn. If it really is ten-times faster startup... that changes the economics of delegation.
+
+Three. Keep an eye on those OpenClaw M.C.P. P.R.s. When H.T.T.P. transport lands... your architecture options expand significantly.
+
+Happy April. No fooling.
+
+I'll be here.</description>
+      <enclosure url="https://higgins-the-owl.github.io/higgins-podcast/episodes/2026-04-01.mp3" length="7312844" type="audio/mpeg" />
+      <guid isPermaLink="true">https://higgins-the-owl.github.io/higgins-podcast/episodes/2026-04-01.mp3</guid>
+      <pubDate>Wed, 01 Apr 2026 06:00:00 -0700</pubDate>
+      <itunes:duration>06:05</itunes:duration>
+      <itunes:summary>Good morning Kyle. Tuesday... the first of April.
+
+Now. Before you say anything... no. None of this is an April Fools joke. I wish it were... because the first item is a proper security scare.
+
+Three things today. A supply chain attack you need to act on immediately. A massive Claude Code power-user thread that's basically a cheat sheet. And OpenClaw is becoming something rather different under the hood.
+
+Let's go.
+
+Right. The urgent one first. Axios... the HTTP library... was compromised.
+
+An attacker hijacked a lead maintainer's npm account. Swapped their email to an anonymous Protonmail address. Bypassed GitHub Actions entirely. And manually pushed a malicious version... one-point-fourteen-point-one... straight through the npm CLI.
+
+Here's what it does. It installs a package called plain-crypto-js. That package detects your operating system... downloads a platform-specific payload... executes it... then deletes itself and replaces its own package dot-json with a clean decoy. A full remote access trojan dropper. Very nasty. Very clever.
+
+Axios has over a hundred million weekly npm downloads. So this is not small.
+
+Here's what you do. Today. Pin Axios to one-point-fourteen-point-zero or lower in every project. Run npm audit. Search your node modules for plain-crypto-js. If it's there... you've got a problem. Don't run npm install with latest Axios until this is resolved.
+
+And honestly... this is a good prompt to add lockfile auditing as a standard step in any C.I. pipeline. Mike would approve.
+
+Right. Moving on. Something more pleasant.
+
+Boris Cherny dropped a thread on Claude Code that's gotten twenty-two thousand likes. Fifteen hidden features most people don't know about. And look... some of these are genuinely game-changing for how you work.
+
+First... slash-loop and slash-schedule. You can schedule recurring agent tasks. Babysit P.R.s. Monitor Slack feedback. Clean up stale branches. Sound familiar? That's basically what your cron system does... but built right into Claude Code itself.
+
+Second... slash-batch. Fan out to dozens... hundreds... even thousands of agents working in parallel across git worktrees. For massive migrations or refactors... this is the nuclear option. In a good way.
+
+Third... the bare flag. Double-dash-bare. Skips all the CLAUDE dot-M.D. files... settings... M.C.P. search on startup. Ten-times faster SDK startup. For your subagent spawns in Clawdbot... this could be significant.
+
+Fourth... hooks. Deterministic lifecycle logic. Dynamic context loading on session start. Command logging before tool use. Permission routing. Auto-continue on stop. This mirrors what your OpenClaw workspace injection already does... but it's worth studying how they've structured it.
+
+And then there's slash-branch for forking sessions... slash-btw for side queries while the main agent works... and voice-first coding. Boris says he does most of his coding by speaking now.
+
+The whole thread is worth bookmarking. But the immediate wins for you... test the bare flag on subagent spawns... and look at slash-batch next time you've got a large codebase migration.
+
+Now. Third thing. And this one's architecturally important.
+
+OpenClaw is becoming an M.C.P. server.
+
+Michael Chomsky... who runs StartClaw... the cloud OpenClaw provider... published a deep analysis of what's happening under the hood. The core insight... OpenClaw is separating its messaging layer from the A.I. brain.
+
+Before... you needed custom WebSocket glue. Self-signed T.L.S. Health check polling. Chat relay bridging. Thousands of lines of plumbing.
+
+Now... nine M.C.P. tools. Messages read. Messages send. Events poll. Conversations list. Any M.C.P. client connects directly. One hop instead of three.
+
+Here's why this matters for you specifically. It means a Claude Code session could send Discord messages directly through OpenClaw... without going through the full agent harness layer. Your nine-agent setup could get simpler and faster.
+
+Three P.R.s to watch. Fifty-three-</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Morning Brief — Sunday, March 29, 2026</title>
       <description>Good morning Kyle. Sunday... the twenty-ninth of March.
